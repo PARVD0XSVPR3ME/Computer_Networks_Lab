@@ -3,6 +3,12 @@
 This repository contains two course assignments for the **Computer Networks Lab** university course for the
 academic period of 2015-2016 done by <a href="https://github.com/PARVD0XSVPR3ME">Panagiotis Charalampopoulos</a>.
 
+## Assignment 1
+
+This assignment covers networking fundamentals, IP addressing, subnetting, and network tables (MAC address
+tables, ARP tables and routing tables).
+
+Contains my answers (in Greek)
 
 ## Assignment 2
 
