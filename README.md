@@ -8,7 +8,7 @@ academic period of 2015-2016 done by <a href="https://github.com/PARVD0XSVPR3ME"
 This assignment covers networking fundamentals, IP addressing, subnetting, and network tables (MAC address
 tables, ARP tables and routing tables).
 
-Contains my answers (in Greek)
+Contains my answers (in Greek).
 
 ## Assignment 2
 
